@@ -1,6 +1,8 @@
 # Craig's Final Project
 
-This repository is a template for publishing a Python project as a website using **GitHub Pages**. The page you're reading right now is the site's home page — it's just the `README.md` file from the repo, turned into a web page.
+[This is my new page](new-page.md)
+
+This repository is a template for publishing a Python project as a website using *GitHub Pages*. The page you're reading right now is the site's home page — it's just the `README.md` file from the repo, turned into a web page.
 
 Everything here is plain Markdown. GitHub pages renders markdown as HTML so it is viewable in the browser.
 

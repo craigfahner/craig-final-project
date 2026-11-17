@@ -9,6 +9,7 @@ description: An INFO-664 Project
 # .github/workflows/pages.yml), so Jekyll should skip it.
 exclude:
   - notebook
+  - secret.md
 
 #Fixes "double heading" error sometimes seen on certain themes
 titles_from_headings:
@@ -16,8 +17,9 @@ titles_from_headings:
 
 # Theme: keep exactly one "theme:" line uncommented.
 # To switch, add a # in front of the current theme and remove the # from another.
-theme: minima
+# theme: minima
 # theme: jekyll-theme-minimal
-# theme: jekyll-theme-dinky
+theme: jekyll-theme-dinky
 # theme: jekyll-theme-tactile
 # theme: jekyll-theme-slate
+
